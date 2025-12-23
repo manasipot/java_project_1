@@ -1,1 +1,5 @@
-this code changes from feature branchi
+<<<<<<< HEAD
+this code changes from feature branchch
+=======
+This is code changes from master bran
+>>>>>>> feature
